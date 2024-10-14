@@ -7,7 +7,7 @@ public class UnitTest1
     public void TestAddNumbers()
     {
         // Arrange
-        int a = 7;
+        int a = 9;
         int b = 10;
 
         // Act
