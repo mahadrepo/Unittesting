@@ -14,6 +14,6 @@ public class UnitTest1
         int result = Program.AddNumbers(a, b);
 
         // Assert
-        Assert.Equal(15, result);
+        Assert.Equal(1, result);
     }
 }
