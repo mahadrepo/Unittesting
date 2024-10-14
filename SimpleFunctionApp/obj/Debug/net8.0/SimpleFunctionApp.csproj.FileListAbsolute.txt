@@ -1,0 +1,14 @@
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\bin\Debug\net8.0\SimpleFunctionApp.exe
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\bin\Debug\net8.0\SimpleFunctionApp.deps.json
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\bin\Debug\net8.0\SimpleFunctionApp.runtimeconfig.json
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\bin\Debug\net8.0\SimpleFunctionApp.dll
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\bin\Debug\net8.0\SimpleFunctionApp.pdb
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.AssemblyInfoInputs.cache
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.AssemblyInfo.cs
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.csproj.CoreCompileInputs.cache
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.dll
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\refint\SimpleFunctionApp.dll
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.pdb
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.genruntimeconfig.cache
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\ref\SimpleFunctionApp.dll
