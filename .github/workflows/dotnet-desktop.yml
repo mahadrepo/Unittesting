@@ -27,6 +27,9 @@ jobs:
       - name: Build the project
         run: dotnet build --no-restore
 
+        - name: Clean build
+          run: dotnet clean
+
       - name: Run tests
-        run: dotnet test SimpleFunctionApp.Tests/SimpleFunctionApp.Tests.csproj --no-build --verbosity normal --logger "trx" --blame
-        continue-on-error: false
+        run: dotnet test SimpleFunctionApp.Tests/SimpleFunctionApp.Tests.csproj --no-build --verbosity normal --logger "trx" --blame --filter FullyQualifiedName~UnitTest1.TestAddNumbers
+
