@@ -103,3 +103,4 @@ C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp.Tests\obj\Debug\net8.0\
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp.Tests\obj\Debug\net8.0\SimpleFunctionApp.Tests.pdb
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp.Tests\obj\Debug\net8.0\SimpleFunctionApp.Tests.genruntimeconfig.cache
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp.Tests\obj\Debug\net8.0\ref\SimpleFunctionApp.Tests.dll
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp.Tests\obj\Debug\net8.0\SimpleFunctionApp.Tests.sourcelink.json

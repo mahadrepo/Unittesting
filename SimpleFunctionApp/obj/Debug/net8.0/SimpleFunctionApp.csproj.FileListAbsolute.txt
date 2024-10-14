@@ -12,3 +12,4 @@ C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\refint
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.pdb
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.genruntimeconfig.cache
 C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\ref\SimpleFunctionApp.dll
+C:\Users\Mahad Nadeem\Desktop\testing1\SimpleFunctionApp\obj\Debug\net8.0\SimpleFunctionApp.sourcelink.json
