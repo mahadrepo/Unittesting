@@ -8,12 +8,12 @@ public class UnitTest1
     {
         // Arrange
         int a = 20;
-        int b = 10;
+        int b = 20;
 
         // Act
         int result = Program.AddNumbers(a, b);
 
         // Asserts
-        Assert.Equal(30, result);
+        Assert.Equal(40, result);
     }
 }
