@@ -13,7 +13,7 @@ public class UnitTest1
         // Act
         int result = Program.AddNumbers(a, b);
 
-        // Assert
+        // Asserts
         Assert.Equal(15, result);
     }
 }
