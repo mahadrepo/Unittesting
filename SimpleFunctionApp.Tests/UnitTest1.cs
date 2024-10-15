@@ -7,13 +7,13 @@ public class UnitTest1
     public void TestAddNumbers()
     {
         // Arrange
-        int a = 20;
+        int a = 30;
         int b = 20;
 
         // Act
         int result = Program.AddNumbers(a, b);
 
         // Asserts
-        Assert.Equal(40, result);
+        Assert.Equal(50, result);
     }
 }
